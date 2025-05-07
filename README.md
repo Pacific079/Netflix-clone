@@ -41,7 +41,7 @@ Netflix-clone/
 ---
 
 ## 🌍 Live Demo
-Add a link here if the project is hosted online (e.g., GitHub Pages, Netlify, Vercel).
+Live Demo: https://pacific079.github.io/Netflix-clone/
 
 ---
 
